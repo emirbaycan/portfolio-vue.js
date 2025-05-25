@@ -1,0 +1,251 @@
+{
+    "delay": 100,
+    "hello": "Merhaba",
+    "author": "Emir Baycan",
+    "title": "Emir Baycan - Yazılım Geliştirici",
+    "description": "Kodlamaya tutkuyla bağlı bir adam",
+    "keyword": "yazılım geliştirici, yazılım mühendisi, arka uç geliştirici, full stack geliştirici, makine öğrenimi mühendisi, yapay zeka araştırmacısı, geliştirici portföyü",
+    "copyright": "2024 Emir Baycan",
+    "url": "https://vue.emirbaycan.com.tr",
+    "email":"emir-baycan@hotmail.com",
+    "about": {
+        "welcome": "Hoş geldiniz!",
+        "description": "Benim adım Emir Baycan ve ben bir yazılım mühendisiyim. Modern çerçeveler kullanarak web uygulamaları oluşturmak ve web siteleri tasarlamak tutkum. Ayrıca, yenilenebilir enerjiye uygulanan makine öğrenimi alanında araştırmalar yapıyorum.",
+        "hire_me": "Beni işe al!",
+        "contact_me": "Benimle iletişime geçin"
+    },
+    "links": [
+        {
+            "name": "ana sayfa",
+            "url": "#hero"
+        },
+        {
+            "name": "beceriler",
+            "url": "#skills"
+        },
+        {
+            "name": "deneyimler",
+            "url": "#edu-exp"
+        },
+        {
+            "name": "projeler",
+            "url": "#projects"
+        }
+    ],
+    "socials": [
+        {
+            "id": 1,
+            "icon": "fab linkedin-in",
+            "url": "https://linkedin.com/in/emirbaycan"
+        },
+        {
+            "id": 2,
+            "icon": "fab github",
+            "url": "https://github.com/kalinux0"
+        }
+    ],
+    "awards_title":"Ödüller",
+    "awards": [
+        {
+            "id": 1,
+            "title": "JunctionX Seoul 2021 SI Analytics 3. Kazanan",
+            "date": "21 - 23 Mayıs 2021",
+            "image": "junction2021.jpg",
+            "description": ""
+        },
+        {
+            "id": 2,
+            "title": "IEEE Seoul Bölümü Öğrenci Makale Yarışması Bronz Ödülü",
+            "date": "12 Aralık 2020",
+            "image": "IEEE_diploma.png",
+            "description": "Makale için «Dağıtılmış Jeneratörlerle Enerji Depolama Sisteminin Optimal İşletimi: Veri Tabanlı Tahmin Yöntemi Kullanımı»"
+        },
+        {
+            "id": 3,
+            "title": "JunctionX Seoul 2020 SI Analytics 3. Kazanan",
+            "date": "9 - 11 Ekim 2020",
+            "image": "junction2020.jpg",
+            "description": "Proje doğal afet izleyici SmartMonitor ile Uydu Görüntü Analizi kategorisinde 3. oldu."
+        },
+        {
+            "id": 4,
+            "title": "52. KIEE Yaz Konferansı 2021 Lisansüstü Öğrenci Üstün Makale Ödülü",
+            "date": "14 - 17 Temmuz 2021",
+            "image": "2021_KIEE_Award.png",
+            "description": "Mükemmellik Ödülü"
+        }
+    ],
+    "experiences_title": "Deneyim",
+    "experiences": [
+        {
+            "id": 1,
+            "date": "Oca 2022 - Şu Anda",
+            "position": "Arka Uç Geliştirici",
+            "company": "KMS Lighthouse",
+            "url": "https://kmslh.com/",
+            "description": [
+                {
+                    "id": 1,
+                    "description": "KMS Lighthouse'ın arama sistemindeki hataları araştırdım ve düzelttim, bu arada arama algoritmaları, RESTful API ve Solr yapılandırması üzerinde çalıştım."
+                },
+                {
+                    "id": 2,
+                    "description": "Arama performansını iyileştirmek ve çok dilli Solr yapılandırması üzerinde çalıştım."
+                },
+                {
+                    "id": 3,
+                    "description": "Dil tespiti performansını artırmak için araştırma yaptım."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "date": "Şub 2020 - Nis 2020",
+            "position": "Arka Uç Geliştirici Stajyer",
+            "company": "ISPsystem",
+            "url": "https://www.ispsystem.com/",
+            "description": [
+                {
+                    "id": 1,
+                    "description": "Kıdemli geliştiricilerden koçluk ve destek aldım ve backend geliştirme için GoLang'da pratik tecrübe kazandım."
+                },
+                {
+                    "id": 2,
+                    "description": "Bir kıdemli yazılım mühendisinin gözetiminde VMmanager import servisi geliştirmesine katıldım."
+                }
+            ]
+        }
+    ],
+    "project_search":"Proje arayın",
+    "project_categories":["Web Development", "Machine Learning"],
+    "all_projects":"All Projects",
+    "projects_title": "Projeler",
+    "projects": [
+        {
+            "id": 1,
+            "title": "Üniversite Lab Web Sitesi",
+            "image": "ml-lab.png",
+            "url": "https://compvis.ru/",
+            "category": "Web Geliştirme",
+            "tags": [
+                "Bootstrap"
+            ],
+            "description": "Makine Öğrenimi, Bilgisayar Görüşü ve Dinamik Sistemler araştırma kuruluşu için web sitesi."
+        },
+        {
+            "id": 2,
+            "title": "SmartChange",
+            "image": "smartchange.png",
+            "url": "https://github.com/xtenzQ/SmartChange",
+            "category": "Makine Öğrenimi",
+            "tags": [
+                "Python",
+                "Vue.js",
+                "Flask",
+                "PyTorch"
+            ],
+            "description": "JunctionX Seoul 2021 hackathon'unun SIA kategorisinde üçüncü olan AI destekli web uygulaması, şehir peyzajındaki değişiklikleri izleyebiliyor."
+        },
+        {
+            "id": 3,
+            "title": "Smart Monitor",
+            "image": "smartmonitor.png",
+            "url": "https://github.com/xtenzQ/SmartMonitor",
+            "category": "Makine Öğrenimi",
+            "tags": [
+                "C#",
+                "ASP.NET Core",
+                "OpenCV",
+                "Tensorflow"
+            ],
+            "description": "JunctionX Seoul 2020 hackathon'unun SIA kategorisinde üçüncü olan, doğal afetlerde hasar görmüş binaları tespit eden ve hakkında kısa bilgi veren bir web uygulaması."
+        }
+    ],
+    "skills_title": "Beceriler",
+    "skills": [
+        {
+            "id": 1,
+            "title": "Arka Uç",
+            "image": "backend_blue.png",
+            "languages": [
+                {
+                    "id": 1,
+                    "title": "Java",
+                    "css": "java"
+                },
+                {
+                    "id": 2,
+                    "title": "Groovy",
+                    "css": "groovy"
+                },
+                {
+                    "id": 3,
+                    "title": "Apache Solr",
+                    "css": "solr"
+                },
+                {
+                    "id": 4,
+                    "title": "Spring Data",
+                    "css": "spring"
+                },
+                {
+                    "id": 5,
+                    "title": "Docker",
+                    "css": "docker"
+                }
+            ],
+            "description": "JVM dillerini kullanarak web uygulamaları geliştiriyorum ve Apache Solr gibi NoSQL arama motorlarıyla yakından çalışıyorum."
+        },
+        {
+            "id": 2,
+            "title": "Ön Uç",
+            "image": "frontend_blue.png",
+            "languages": [
+                {
+                    "id": 1,
+                    "title": "JavaScript",
+                    "css": "js"
+                },
+                {
+                    "id": 2,
+                    "title": "Vue.js",
+                    "css": "vuejs"
+                },
+                {
+                    "id": 3,
+                    "title": "Bootstrap",
+                    "css": "bootstrap"
+                },
+                {
+                    "id": 4,
+                    "title": "Bulma",
+                    "css": "bulma"
+                }
+            ],
+            "description": "Arka uç geliştirici olmama rağmen, web uygulamaları ve web siteleri tasarlama konusunda tutkum var ve JavaScript ve Vue.js gibi konulara ilgi duyuyorum."
+        },
+        {
+            "id": 3,
+            "title": "Makine Öğrenimi",
+            "image": "ai_blue.png",
+            "languages": [
+                {
+                    "id": 1,
+                    "title": "Tensorflow",
+                    "css": "tensorflow"
+                },
+                {
+                    "id": 2,
+                    "title": "PyTorch",
+                    "css": "pytorch"
+                },
+                {
+                    "id": 3,
+                    "title": "OpenCV",
+                    "css": "opencv"
+                }
+            ],
+            "description": "Gerçek dünya problemlerini çözmek için derin öğrenmeyi kullanıyorum. Tensorflow ve PyTorch kullanarak sinir ağları oluşturuyor ve görüntüleri işlemek için OpenCV kullanıyorum."
+        }
+    ]
+}
