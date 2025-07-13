@@ -1,18 +1,18 @@
 {
-    "delay":100,
+    "delay": 100,
     "hello": "Hello",
     "author": "Emir Baycan",
     "title": "Emir Baycan - Software Developer",
-    "description": "Just a guy with passion for coding",
-    "keyword": "software developer, software engineer, backend developer, fullstack developer, machine learning engineer, AI researcher, developer portfolio",
+    "description": "Passionate about modern software development, automation, and entrepreneurship.",
+    "keyword": "software developer, fullstack, backend, frontend, ai, automation, portfolio, c#, python, node.js",
     "copyright": "2024 Emir Baycan",
     "url": "https://vue.emirbaycan.com.tr",
-    "email":"emir-baycan@hotmail.com",
+    "email": "emir-baycan@hotmail.com",
     "about": {
         "welcome": "Welcome!",
-        "description": "My name is Emir Baycan and I'm a software engineer. My passion is building web applications and designing websites using modern frameworks. Also I'm doing research in machine learning applied to renewable energy",
-        "hire_me": "Hire me!",
-        "contact_me": "Contact me"
+        "description": "I'm Emir Baycan. As a full-stack software developer, entrepreneur, and technology enthusiast, I develop web and mobile applications, AI, and automation projects. I have experience with Python, C#, JavaScript, React, Angular, Node.js, Docker, and cloud technologies.",
+        "hire_me": "LinkedIn",
+        "contact_me": "Contact Me"
     },
     "links": [
         {
@@ -41,173 +41,535 @@
         {
             "id": 2,
             "icon": "fab github",
-            "url": "https://github.com/kalinux0"
+            "url": "https://github.com/emirbaycan"
         }
     ],
-    "awards_title":"Awards",
-    "awards": [
-        {
-            "id": 1,
-            "title": "JunctionX Seoul 2021 SI Analytics 3rd Winner",
-            "date": "21 - 23 of May, 2021",
-            "image": "junction2021.jpg",
-            "description": ""
-        },
-        {
-            "id": 2,
-            "title": "IEEE Seoul Section Student Paper Contest Bronze Award",
-            "date": "12th of December, 2020",
-            "image": "IEEE_diploma.png",
-            "description": "For paper «The Optimal Operation of Energy Storage System with Distributed Generators by Using Data-based Prediction Method»"
-        },
-        {
-            "id": 3,
-            "title": "JunctionX Seoul 2020 SI Analytics 3rd Winner",
-            "date": "9 - 11th of October, 2020",
-            "image": "junction2020.jpg",
-            "description": "3rd place in Satellite Image Analysis track with project natural disaster tracker SmartMonitor"
-        },
-        {
-            "id": 4,
-            "title": "52nd KIEE Summer Conference 2021 Graduate Students Outstanding Paper Award",
-            "date": "14 - 17th of July, 2021",
-            "image": "2021_KIEE_Award.png",
-            "description": "Excellence Prize"
-        }
-    ],
-    "experiences_title":"Experiences",
+    "awards_title": "Awards",
+    "awards": [],
+    "experiences_title": "Experience",
     "experiences": [
         {
             "id": 1,
-            "date": "Jan 2022 - Present",
-            "position": "Backend Developer",
-            "company": "KMS Lighthouse",
-            "url": "https://kmslh.com/",
+            "date": "Sep 2024 - Nov 2024",
+            "position": "Software Specialist",
+            "company": "Karalar Kağıt",
+            "url": "",
             "description": [
                 {
                     "id": 1,
-                    "description": "Investigated and fixed bugs in the search system of KMS Lighthouse including search algorithms, RESTful API and Solr configuration"
+                    "description": "Took full responsibility for the analysis and development of corporate web projects."
                 },
                 {
                     "id": 2,
-                    "description": "Worked on improving search performance and multilanguage Solr configuration"
+                    "description": "Developed and deployed custom modules according to client requirements."
                 },
                 {
                     "id": 3,
-                    "description": "Conducted research to increase language detection performance"
+                    "description": "Contributed to integration and technical documentation processes with cross-functional teams."
                 }
             ]
         },
         {
             "id": 2,
-            "date": "Feb 2020 - Apr 2020",
-            "position": "Backend Developer Intern",
-            "company": "ISPsystem",
-            "url": "https://www.ispsystem.com/",
+            "date": "Jan 2024 - Present",
+            "position": "Software Specialist",
+            "company": "My Partners Law Office",
+            "url": "https://myp.emirbaycan.com.tr",
             "description": [
                 {
                     "id": 1,
-                    "description": "Received coaching and support from senior developers and gained practical experience in GoLang for backend development"
+                    "description": "Responsible for planning, development, and maintenance of digital infrastructure and automation projects."
                 },
                 {
                     "id": 2,
-                    "description": "Participated in VMmanager import service development under the supervision of a senior software engineer"
+                    "description": "Optimized customer management, dynamic panels, and document automation systems in the legal domain."
+                },
+                {
+                    "id": 3,
+                    "description": "Provided custom control panel and user management using the Kalenuxer infrastructure."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "date": "Oct 2022 - Dec 2022",
+            "position": "Web Developer",
+            "company": "Eyüp Sultan Tulumbacısı",
+            "url": "",
+            "description": [
+                {
+                    "id": 1,
+                    "description": "Played an active role in the design, development, and deployment of web and e-commerce platforms."
+                },
+                {
+                    "id": 2,
+                    "description": "Created modules focused on product management and customer experience."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "date": "Mar 2022 - Aug 2023",
+            "position": "Software Specialist",
+            "company": "Legal Proficiency Academy",
+            "url": "https://hya.emirbaycan.com.tr",
+            "description": [
+                {
+                    "id": 1,
+                    "description": "Analyzed and developed user and exam modules for a comprehensive educational platform."
+                },
+                {
+                    "id": 2,
+                    "description": "Designed panels with multi-level user access and real-time update features."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "date": "Feb 2022 - Apr 2022",
+            "position": "Software Specialist",
+            "company": "Therapy Clinic",
+            "url": "",
+            "description": [
+                {
+                    "id": 1,
+                    "description": "Worked on the development of client tracking systems and online appointment infrastructure."
+                },
+                {
+                    "id": 2,
+                    "description": "Implemented dynamic websites and content management based on Laravel."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "date": "Jul 2021 - Sep 2021",
+            "position": "Software Specialist",
+            "company": "Morkoç Law Office",
+            "url": "",
+            "description": [
+                {
+                    "id": 1,
+                    "description": "Actively involved in the development of document management systems and online consulting modules."
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "date": "Feb 2021 - Feb 2023",
+            "position": "CEO",
+            "company": "Kalenux",
+            "url": "",
+            "description": [
+                {
+                    "id": 1,
+                    "description": "Led all software development, team management, and business development processes."
+                },
+                {
+                    "id": 2,
+                    "description": "Established microservice and full-stack application architectures and managed innovation-driven projects."
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "date": "Sep 2020 - Nov 2020",
+            "position": "Software Specialist",
+            "company": "Karalar Prefabrik",
+            "url": "",
+            "description": [
+                {
+                    "id": 1,
+                    "description": "Took an active role in the analysis and development of the corporate website and customer communication systems."
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "date": "Jan 2020 - Jan 2021",
+            "position": "Web Software Specialist",
+            "company": "Legal Training Programs",
+            "url": "https://hep.emirbaycan.com.tr",
+            "description": [
+                {
+                    "id": 1,
+                    "description": "Developed web-based software solutions tailored to educational programs."
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "date": "Jan 2019 - Jan 2023",
+            "position": "Software Specialist",
+            "company": "Do Eloboost",
+            "url": "",
+            "description": [
+                {
+                    "id": 1,
+                    "description": "Responsible for developing and automating the software infrastructure of the game-based platform."
+                },
+                {
+                    "id": 2,
+                    "description": "Designed management panels and customer automation modules."
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "date": "Jan 2019 - Apr 2019",
+            "position": "Software Specialist",
+            "company": "Murat Bulat Law Office",
+            "url": "",
+            "description": [
+                {
+                    "id": 1,
+                    "description": "Contributed to the development of web-based software and automation systems."
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "date": "Jan 2018 - Jan 2019",
+            "position": "Software Specialist",
+            "company": "Entrepreneurial Lawyers Association",
+            "url": "",
+            "description": [
+                {
+                    "id": 1,
+                    "description": "Took an active role in the planning and development of digital projects tailored to the association."
                 }
             ]
         }
     ],
-    "project_search":"Search project",
-    "project_categories":["Web Development", "Machine Learning"],
-    "all_projects":"All Projects",
-    "projects_title":"Projects",
+    "project_search": "Search Project",
+    "project_categories": [
+        "Web Development",
+        "Artificial Intelligence",
+        "Automation",
+        "Education"
+    ],
+    "all_projects": "All Projects",
+    "projects_title": "Projects",
     "projects": [
         {
             "id": 1,
-            "title": "My Partners Law Firm Website",
-            "image": "myp/myp.webp",
-            "url": "https://compvis.ru/",
+            "title": "Kalenuxer",
+            "image": "https://assets.emirbaycan.com.tr/images/kalenuxer/1.webp",
+            "url": "https://github.com/emirbaycan/Kalenuxer",
             "category": "Web Development",
             "tags": [
-                "LAMP",
-                "Kalenuxer",
                 "Node.js",
-                "Gulp"
+                "SSR",
+                "Multilingual",
+                "Optimized"
             ],
-            "description": "A website and control panel that i built for a Law Firm it also contains SSR algorithms that converts the SQL datas to HTML structure with Kalenuxer"
+            "description": "A next-generation, multilingual, modular, and SSR-supported web application framework."
         },
         {
             "id": 2,
-            "title": "SmartChange",
-            "image": "smartchange.png",
-            "url": "https://github.com/xtenzQ/SmartChange",
-            "category": "Machine Learning",
+            "title": "My Partners Law Office",
+            "image": "https://assets.emirbaycan.com.tr/images/myp/1.webp",
+            "url": "https://myp.emirbaycan.com.tr",
+            "category": "Web Development",
             "tags": [
-                "Python",
-                "Vue.js",
-                "Flask",
-                "PyTorch"
+                "SSR",
+                "Dynamic Panel",
+                "Kalenuxer"
             ],
-            "description": "Third winner in SIA track of JunctionX Seoul 2021 hackathon. AI-powered web application able to track changes in the urban landscape."
+            "description": "A custom panel for law offices, converting dynamic SQL data to HTML."
         },
         {
             "id": 3,
-            "title": "SmartMonitor",
-            "image": "smartmonitor.png",
-            "url": "https://github.com/xtenzQ/SmartMonitor",
-            "category": "Machine Learning",
+            "title": "Legal Proficiency Academy",
+            "image": "https://assets.emirbaycan.com.tr/images/hya/1.webp",
+            "url": "https://hya.emirbaycan.com.tr",
+            "category": "Education",
+            "tags": [
+                "Kalenuxer",
+                "Panel",
+                "Multi-Course"
+            ],
+            "description": "A comprehensive management panel and dynamic content site for educational companies."
+        },
+        {
+            "id": 4,
+            "title": "Morkoç Law Office",
+            "image": "https://assets.emirbaycan.com.tr/images/morkoc/1.webp",
+            "url": "https://lawnux.emirbaycan.com.tr",
+            "category": "Web Development",
+            "tags": [
+                "Law",
+                "Panel",
+                "Kalenuxer"
+            ],
+            "description": "A law site focused on speed and security, with a custom control panel."
+        },
+        {
+            "id": 5,
+            "title": "Karalar Prefabrik",
+            "image": "https://assets.emirbaycan.com.tr/images/kp/1.webp",
+            "url": "https://kp.emirbaycan.com.tr",
+            "category": "Web Development",
+            "tags": [
+                "Prefab",
+                "Catalog",
+                "Kalenuxer"
+            ],
+            "description": "Advanced catalog management and customer interaction for prefab housing companies."
+        },
+        {
+            "id": 6,
+            "title": "Eyüp Sultan Tulumbacısı",
+            "image": "https://assets.emirbaycan.com.tr/images/est/1.webp",
+            "url": "https://eyp.emirbaycan.com.tr",
+            "category": "Web Development",
+            "tags": [
+                "E-commerce",
+                "Panel",
+                "Product Management"
+            ],
+            "description": "A product showcase and high-conversion user-friendly site."
+        },
+        {
+            "id": 7,
+            "title": "Entrepreneurial Lawyers Association",
+            "image": "https://assets.emirbaycan.com.tr/images/ghd/1.webp",
+            "url": "https://ghd.emirbaycan.com.tr",
+            "category": "Web Development",
+            "tags": [
+                "LAMP",
+                "Event",
+                "Membership System"
+            ],
+            "description": "Association membership and event automation system."
+        },
+        {
+            "id": 8,
+            "title": "Legal Training Programs",
+            "image": "https://assets.emirbaycan.com.tr/images/hep/1.webp",
+            "url": "https://hep.emirbaycan.com.tr",
+            "category": "Education",
+            "tags": [
+                "Multi-Course",
+                "Panel",
+                "Kalenuxer"
+            ],
+            "description": "Community site and control panel with multi-course content support."
+        },
+        {
+            "id": 9,
+            "title": "Do Eloboost",
+            "image": "https://assets.emirbaycan.com.tr/images/de/1.webp",
+            "url": "https://de.emirbaycan.com.tr",
+            "category": "Automation",
+            "tags": [
+                "Game",
+                "Automation",
+                "Panel"
+            ],
+            "description": "Game-based platform and management panel."
+        },
+        {
+            "id": 10,
+            "title": "Therapy Clinic",
+            "image": "https://assets.emirbaycan.com.tr/images/tk/1.webp",
+            "url": "",
+            "category": "Web Development",
+            "tags": [
+                "Laravel",
+                "JS",
+                "Psychology"
+            ],
+            "description": "Dynamic website and control panel for psychologists."
+        },
+        {
+            "id": 11,
+            "title": "Murat Bulat Law Office",
+            "image": "https://assets.emirbaycan.com.tr/images/mb/1.webp",
+            "url": "",
+            "category": "Web Development",
+            "tags": [
+                "LAMP",
+                "Automation",
+                "Panel"
+            ],
+            "description": "Automatic file management, client portal, and law office website."
+        },
+        {
+            "id": 12,
+            "title": "Portfolio with LAMP",
+            "image": "https://assets.emirbaycan.com.tr/images/lamp/1.webp",
+            "url": "https://lamp.emirbaycan.com.tr",
+            "category": "Web Development",
+            "tags": [
+                "Portfolio",
+                "Multilingual",
+                "LAMP"
+            ],
+            "description": "Multilingual portfolio site with scalable architecture."
+        },
+        {
+            "id": 13,
+            "title": "Portfolio with React",
+            "image": "https://assets.emirbaycan.com.tr/images/mern/1.webp",
+            "url": "https://mern.emirbaycan.com.tr",
+            "category": "Web Development",
+            "tags": [
+                "React",
+                "Node.js",
+                "MySQL"
+            ],
+            "description": "Dynamic portfolio site with advanced frontend and backend integration."
+        },
+        {
+            "id": 14,
+            "title": "Portfolio with Laravel and React",
+            "image": "https://assets.emirbaycan.com.tr/images/nmlr/1.webp",
+            "url": "https://nmlr.emirbaycan.com.tr",
+            "category": "Web Development",
+            "tags": [
+                "Laravel",
+                "React",
+                "Three.js"
+            ],
+            "description": "Modern, interactive, and technical demo portfolio."
+        },
+        {
+            "id": 15,
+            "title": "Portfolio with Next",
+            "image": "https://assets.emirbaycan.com.tr/images/next/1.webp",
+            "url": "https://next.emirbaycan.com.tr",
+            "category": "Web Development",
+            "tags": [
+                "Next.js",
+                "Multilingual",
+                "Cloud"
+            ],
+            "description": "Next.js-based dynamic and cloud-scalable portfolio site."
+        },
+        {
+            "id": 16,
+            "title": "Account Generator",
+            "image": "https://assets.emirbaycan.com.tr/images/ac/1.webp",
+            "url": "",
+            "category": "Automation",
             "tags": [
                 "C#",
-                "ASP.NET Core",
-                "OpenCV",
-                "Tensorflow"
+                "Selenium",
+                "Cloud"
             ],
-            "description": "Third winner in SIA track of JunctionX Seoul 2020 hackathon. Detects damaged building by natural disasters and get a brief information about it."
+            "description": "Automatic account creator with C# and Selenium, supporting proxy and cloud."
+        },
+        {
+            "id": 17,
+            "title": "Voter",
+            "image": "https://assets.emirbaycan.com.tr/images/v/1.webp",
+            "url": "",
+            "category": "Automation",
+            "tags": [
+                "Python",
+                "Selenium",
+                "Tor"
+            ],
+            "description": "An anonymized human data generator and user simulation system."
+        },
+        {
+            "id": 18,
+            "title": "Speed and Length Calculator",
+            "image": "https://assets.emirbaycan.com.tr/images/shc/1.webp",
+            "url": "",
+            "category": "Artificial Intelligence",
+            "tags": [
+                "Python",
+                "Algorithm",
+                "Modeling"
+            ],
+            "description": "Mathematical modeling of object height and length."
+        },
+        {
+            "id": 19,
+            "title": "Digital Screen Detector",
+            "image": "https://assets.emirbaycan.com.tr/images/dsd/1.webp",
+            "url": "https://github.com/emirbaycan/yolo_digital_screen_detector",
+            "category": "Artificial Intelligence",
+            "tags": [
+                "Python",
+                "YOLO",
+                "Computer Vision"
+            ],
+            "description": "Real-time digital screen detection from live camera feeds."
+        },
+        {
+            "id": 20,
+            "title": "Digital Screen Reader",
+            "image": "https://assets.emirbaycan.com.tr/images/dsr/1.webp",
+            "url": "https://github.com/emirbaycan/ocr_digital_screen_reader",
+            "category": "Artificial Intelligence",
+            "tags": [
+                "Python",
+                "OCR",
+                "Vision"
+            ],
+            "description": "Real-time screen OCR and character recognition system."
+        },
+        {
+            "id": 21,
+            "title": "Digital Screen Alarm",
+            "image": "https://assets.emirbaycan.com.tr/images/dsa/1.webp",
+            "url": "https://github.com/emirbaycan/digital_screen_alarm_with_rtsp_camera",
+            "category": "Artificial Intelligence",
+            "tags": [
+                "Python",
+                "RTSP",
+                "Alarm"
+            ],
+            "description": "Automatic recording and alert system when thresholds are exceeded on digital screens."
         }
     ],
-    "skills_title":"Skills",
+    "skills_title": "Skills",
     "skills": [
         {
             "id": 1,
-            "title": "Back End",
+            "title": "Backend",
             "image": "backend_blue.png",
             "languages": [
                 {
                     "id": 1,
+                    "title": "C#",
+                    "css": "csharp"
+                },
+                {
+                    "id": 2,
+                    "title": "Python",
+                    "css": "python"
+                },
+                {
+                    "id": 3,
+                    "title": "Node.js",
+                    "css": "nodejs"
+                },
+                {
+                    "id": 4,
                     "title": "Java",
                     "css": "java"
                 },
                 {
-                    "id": 2,
-                    "title": "Groovy",
-                    "css": "groovy"
-                },
-                {
-                    "id": 3,
-                    "title": "Apache Solr",
-                    "css": "solr"
-                },
-                {
-                    "id": 4,
-                    "title": "Spring Data",
-                    "css": "spring"
-                },
-                {
                     "id": 5,
-                    "title": "Docker",
-                    "css": "docker"
+                    "title": "PHP",
+                    "css": "php"
                 }
             ],
-            "description": "I develop web apps using JVM languages and work closely with NoSQL search engines like Apache Solr"
+            "description": "I specialize in developing backend architectures for web-based systems."
         },
         {
             "id": 2,
-            "title": "Front End",
+            "title": "Frontend",
             "image": "frontend_blue.png",
             "languages": [
                 {
                     "id": 1,
-                    "title": "JavaScript",
-                    "css": "js"
+                    "title": "React",
+                    "css": "react"
                 },
                 {
                     "id": 2,
@@ -216,20 +578,25 @@
                 },
                 {
                     "id": 3,
-                    "title": "Bootstrap",
-                    "css": "bootstrap"
+                    "title": "Angular",
+                    "css": "angular"
                 },
                 {
                     "id": 4,
-                    "title": "Bulma",
-                    "css": "bulma"
+                    "title": "JavaScript",
+                    "css": "js"
+                },
+                {
+                    "id": 5,
+                    "title": "Tailwind CSS",
+                    "css": "tailwind"
                 }
             ],
-            "description": "Even though Im a backend developer, I have passion for designing web apps and websites and Im into such things as JavaScript and Vue.js"
+            "description": "I develop modern web applications and responsive user interfaces."
         },
         {
             "id": 3,
-            "title": "Machine Learning",
+            "title": "Artificial Intelligence",
             "image": "ai_blue.png",
             "languages": [
                 {
@@ -248,7 +615,7 @@
                     "css": "opencv"
                 }
             ],
-            "description": "I use deep learning to solve problems in the real world. I use Tensorflow and PyTorch to build neural networks and use OpenCV to process images"
+            "description": "I develop solutions for energy, computer vision, and natural language processing using artificial intelligence."
         }
     ]
 }

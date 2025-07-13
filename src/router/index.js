@@ -54,7 +54,7 @@ router.beforeEach((to, from, next) => {
 
   // Remove any stale meta tags from the document using the key attribute we set below.
   Array.from(document.querySelectorAll("[data-vue-router-controlled]")).map(
-    (el) => el.parentNode.removeChild(el)
+    (el) => {if (el?.parentNode) el.parentNode.removeChild(el)}
   );
 
   // Skip rendering meta tags if there are none.

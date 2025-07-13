@@ -13,7 +13,7 @@
       <div class="card-img-container position-relative">
         <img
           class="card-img-top rounded-0"
-          :src="require(`@/assets/images/${project.image}`)"
+          :src="project.image"
           :alt="project.title"
         />
         <a
